@@ -144,7 +144,6 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![alt text](<Screenshot (11).png>)
 
 ![alt text](<Screenshot (13).png>)
 
